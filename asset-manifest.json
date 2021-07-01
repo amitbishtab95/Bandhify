@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bandhify/static/css/main.97d2360e.chunk.css",
+    "main.js": "/bandhify/static/js/main.b2740697.chunk.js",
+    "main.js.map": "/bandhify/static/js/main.b2740697.chunk.js.map",
+    "runtime-main.js": "/bandhify/static/js/runtime-main.036ca43b.js",
+    "runtime-main.js.map": "/bandhify/static/js/runtime-main.036ca43b.js.map",
+    "static/css/2.e3e8cf24.chunk.css": "/bandhify/static/css/2.e3e8cf24.chunk.css",
+    "static/js/2.5ecf37c6.chunk.js": "/bandhify/static/js/2.5ecf37c6.chunk.js",
+    "static/js/2.5ecf37c6.chunk.js.map": "/bandhify/static/js/2.5ecf37c6.chunk.js.map",
+    "static/js/3.39225bde.chunk.js": "/bandhify/static/js/3.39225bde.chunk.js",
+    "static/js/3.39225bde.chunk.js.map": "/bandhify/static/js/3.39225bde.chunk.js.map",
+    "index.html": "/bandhify/index.html",
+    "static/css/2.e3e8cf24.chunk.css.map": "/bandhify/static/css/2.e3e8cf24.chunk.css.map",
+    "static/css/main.97d2360e.chunk.css.map": "/bandhify/static/css/main.97d2360e.chunk.css.map",
+    "static/js/2.5ecf37c6.chunk.js.LICENSE.txt": "/bandhify/static/js/2.5ecf37c6.chunk.js.LICENSE.txt",
+    "static/media/I1.971cd414.png": "/bandhify/static/media/I1.971cd414.png",
+    "static/media/I2.b553eafe.jpg": "/bandhify/static/media/I2.b553eafe.jpg",
+    "static/media/I3.a0d90845.jpg": "/bandhify/static/media/I3.a0d90845.jpg",
+    "static/media/coupon.7f60e998.jpg": "/bandhify/static/media/coupon.7f60e998.jpg",
+    "static/media/dairy.1e1cb218.jpg": "/bandhify/static/media/dairy.1e1cb218.jpg",
+    "static/media/review.f7a1a923.png": "/bandhify/static/media/review.f7a1a923.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.036ca43b.js",
+    "static/css/2.e3e8cf24.chunk.css",
+    "static/js/2.5ecf37c6.chunk.js",
+    "static/css/main.97d2360e.chunk.css",
+    "static/js/main.b2740697.chunk.js"
+  ]
+}
